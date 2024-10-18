@@ -1,4 +1,4 @@
-## Olá, eu sou a Mariane Fátima 👋
+## Olá, eu sou a Mariane Fátima <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 🔭 Estudante de Analise e Desenvolvimento de Sistemas no IFSP
 - 🌱 Estudando JavaScript e C
@@ -17,6 +17,7 @@
 
 <div> 
   <br>
+  Estudando: <br><br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
